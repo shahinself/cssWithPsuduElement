@@ -1,0 +1,30 @@
+h1 {
+    width: 50%;
+    text-align: center;
+}
+
+h1:hover {
+    background-color: blueviolet;
+
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+div:hover {
+    background-color: blueviolet;
+}
+
+.float {
+    width: 30%;
+    float: left;
+}
+
+.footer {
+    background-color: cadetblue;
+    text-align: center;
+    height: 100px;
+}
